@@ -1,0 +1,6 @@
+[submodule "frontend-ci"]
+	path = frontend-ci
+	url = git@github.com:alireza-aliabadi/frontend-ci.git
+[submodule "android-ci"]
+	path = android-ci
+	url = git@github.com:alireza-aliabadi/android-ci.git
